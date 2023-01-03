@@ -2,7 +2,7 @@
 
 Overlap Graphs ----> grph  \\done
 
-Finding a Protein Motif ----> mprt
+Finding a Protein Motif ----> mprt \\done
 
 Open Reading Framesv ---->orf
 
