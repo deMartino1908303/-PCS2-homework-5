@@ -10,7 +10,7 @@ RNA Splicing ----> splc \\done
 
 Perfect Matchings and RNA Secondary Structures ----> pmch \\done
 
-Partial Permutations ----> pper
+Partial Permutations ----> pper \\done
 
 Completing a Tree ----> tree
 
