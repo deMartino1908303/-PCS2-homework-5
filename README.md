@@ -6,7 +6,7 @@ Finding a Protein Motif ----> mprt \\done
 
 Open Reading Framesv ---->orf \\done
 
-RNA Splicing ----> splc
+RNA Splicing ----> splc \\done
 
 Perfect Matchings and RNA Secondary Structures ----> pmch
 
