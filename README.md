@@ -12,7 +12,7 @@ Perfect Matchings and RNA Secondary Structures ----> pmch \\done
 
 Partial Permutations ----> pper \\done
 
-Completing a Tree ----> tree
+Completing a Tree ----> tree \\done
 
 Genome Assembly as Shortest Superstring ----> long
 
