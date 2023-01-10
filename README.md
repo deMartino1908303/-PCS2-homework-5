@@ -18,4 +18,4 @@ Genome Assembly as Shortest Superstring ----> long
 
 Finding a Spliced Motif ----> sseq \\done
 
-Transitions and Transversions ----> tran
+Transitions and Transversions ----> tran \\done
