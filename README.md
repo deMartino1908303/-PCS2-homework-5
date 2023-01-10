@@ -16,6 +16,6 @@ Completing a Tree ----> tree \\done
 
 Genome Assembly as Shortest Superstring ----> long
 
-Finding a Spliced Motif ----> sseq
+Finding a Spliced Motif ----> sseq \\done
 
 Transitions and Transversions ----> tran
