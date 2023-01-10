@@ -14,7 +14,7 @@ Partial Permutations ----> pper \\done
 
 Completing a Tree ----> tree \\done
 
-Genome Assembly as Shortest Superstring ----> long
+Genome Assembly as Shortest Superstring ----> long \\done
 
 Finding a Spliced Motif ----> sseq \\done
 
